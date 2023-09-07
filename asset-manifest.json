@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OutlookUI/static/css/main.65a8e00c.css",
+    "main.js": "/OutlookUI/static/js/main.a9ae8840.js",
+    "static/js/787.b7cacdc2.chunk.js": "/OutlookUI/static/js/787.b7cacdc2.chunk.js",
+    "index.html": "/OutlookUI/index.html",
+    "main.65a8e00c.css.map": "/OutlookUI/static/css/main.65a8e00c.css.map",
+    "main.a9ae8840.js.map": "/OutlookUI/static/js/main.a9ae8840.js.map",
+    "787.b7cacdc2.chunk.js.map": "/OutlookUI/static/js/787.b7cacdc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65a8e00c.css",
+    "static/js/main.a9ae8840.js"
+  ]
+}
